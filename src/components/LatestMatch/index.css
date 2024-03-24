@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.matchDetailsContainer {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  background-color: #1e293b;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.firstContainer {
+  width: 31%;
+}
+
+.competingTeamLogo {
+  width: 31%;
+}
+
+.secondContainer {
+  width: 31%;
+}

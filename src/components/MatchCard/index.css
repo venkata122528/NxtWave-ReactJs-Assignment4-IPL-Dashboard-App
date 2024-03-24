@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.matchCardItemContainer {
+  list-style-type: none;
+  background-color: #1e293b;
+  border-radius: 10px;
+  height: 400px;
+  width: 31%;
+  margin: 10px;
+  text-align: center;
+}
+
+.teamName {
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.resultTitle {
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.teamLogoImage {
+  height: 40%;
+}
+
+.lost {
+  color: #e31a1a;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+}
+
+.win {
+  color: #18ed66;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+}

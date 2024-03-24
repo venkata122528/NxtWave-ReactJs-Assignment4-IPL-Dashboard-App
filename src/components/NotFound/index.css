@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.improperUrlContainer {
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  text-align: center;
+  margin: 0px;
+  color: #ffffff;
+}

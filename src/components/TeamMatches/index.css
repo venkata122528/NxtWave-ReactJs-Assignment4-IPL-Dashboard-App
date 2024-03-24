@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.rcbTeamDataContainer {
+  width: 100%;
+  background-image: linear-gradient(#0f172a, #d91c1f);
+}
+
+.kkrTeamDataContainer {
+  width: 100%;
+  background-color: #13418b;
+}
+
+.kxpTeamDataContainer {
+  width: 100%;
+  background-color: #d91c1f;
+}
+
+.cskTeamDataContainer {
+  width: 100%;
+  background-color: #f7db00;
+}
+
+.rrTeamDataContainer {
+  width: 100%;
+  background-image: linear-gradient(#da237b, #13418b);
+}
+
+.miTeamDataContainer {
+  width: 100%;
+  background-color: #13418b;
+}
+
+.shTeamDataContainer {
+  width: 100%;
+  background-color: #f26d22;
+}
+
+.dcTeamDataContainer {
+  width: 100%;
+  background-image: linear-gradient(#d91c1f, #13418b);
+}
+
+.teamBannerImage {
+  height: 300px;
+  width: 100%;
+}
+
+.latestMatchesTitle {
+  text-align: start;
+  font-size: 35px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.recentMatchesDataContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
